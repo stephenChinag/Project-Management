@@ -31,3 +31,4 @@ C:\Users\HP\Desktop\ProjectManagement\obj\Debug\net8.0\refint\ProjectManagement.
 C:\Users\HP\Desktop\ProjectManagement\obj\Debug\net8.0\ProjectManagement.pdb
 C:\Users\HP\Desktop\ProjectManagement\obj\Debug\net8.0\ProjectManagement.genruntimeconfig.cache
 C:\Users\HP\Desktop\ProjectManagement\obj\Debug\net8.0\ref\ProjectManagement.dll
+C:\Users\HP\Desktop\ProjectManagement\obj\Debug\net8.0\ProjectManagement.sourcelink.json
