@@ -2,8 +2,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using ProductApi.Data;
-using ProductApi.Services;
+using ProjectManagement.Data;
+using ProjectManagement.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

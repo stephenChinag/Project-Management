@@ -1,4 +1,4 @@
-namespace ProductApi.Models.DTOs
+namespace ProjectManagement.Models.DTOs
 {
     public class ProductDto
     {
@@ -9,3 +9,4 @@ namespace ProductApi.Models.DTOs
         public int StockQuantity { get; set; }
     }
 }
+// ProjectManagement

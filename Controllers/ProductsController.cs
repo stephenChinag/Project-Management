@@ -2,10 +2,11 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using ProductApi.Models.DTOs;
-using ProductApi.Services;
+using ProjectManagement.Models.DTOs;
+using ProjectManagement.Services;
 
-namespace ProductApi.Controllers
+// namespace ProductApi.Controllers
+namespace ProjectManagement.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
